@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{7DA55DD9-127B-4F19-BB13-A23BF5D62612}'];loadHandler&&loadHandler(14, '<div id="spr0_1fa1213"><div id="spr1_1fa1213" class="kern slide"><img id="img2_1fa1213" src="data/img55.jpg" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1fa1213" class="kern slide"><div id="spr3_1fa1213" style="left:36px;top:98.25px;"><img id="img0_1fa1213" src="data/img53.png" width="674.25" height="523.5" alt=""/></div><div id="spr4_1fa1213" style="left:81px;top:189.75px;"><img id="img1_1fa1213" src="data/img54.png" width="581.25" height="384.75" alt="\
+Depreciating Assets\
+\
+Suppose you own a car that you purchased for some amount. If the price of the car depreciates (decreases) by the same percentage every year, you can find out the value of the car after n years, using the geometric sequence."/></div></div></div>', '{"s":[]}');})();
